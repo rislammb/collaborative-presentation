@@ -1,5 +1,7 @@
 # Task #6
 
+### [Open live](https://rislammb-presentation.netlify.app/)
+
 Web-application (use the stack of your group).
 
 The application is a "collaborative presentation software" for everyone.
